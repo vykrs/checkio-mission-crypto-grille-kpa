@@ -30,7 +30,7 @@ if __name__ == '__main__':
                                                                                                '..X.X...',
                                                                                                '.X...X..']
                                                                                                
-     ssert find_grille('theideaofcognitivebiasinpsychologyworksinananalogouswayacognitiv',
+    assert find_grille('theideaofcognitivebiasinpsychologyworksinananalogouswayacognitiv',
                        'tgovgeubyhsiawseiinorkdepaswoasifcyncyaanaognconaginihlttoiivloo') == ['X.......',
                                                                                                '.X.....X',
                                                                                                'X.....XX',
